@@ -24,7 +24,7 @@ The main goal of this project is to build a text classification model that can c
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/text-classification-bert.git
+   git clone [https://github.com/yourusername/text-classification-bert.git](https://github.com/AminZghal/interview.git)
    cd text-classification-bert
    
 pip install -r requirements.txt
